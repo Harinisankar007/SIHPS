@@ -105,6 +105,7 @@ Actors: Alumni (Mentors and Mentees), System
 Description: The platform matches mentees (students or recent graduates) with mentors (experienced alumni) based on their profiles and areas of interest. They can then schedule meetings, track progress, and provide feedback.
 
 6. Fundraising and Donations
+![WhatsApp Image 2024-11-27 at 21 33 20_b58e8806](https://github.com/user-attachments/assets/ead0cdbd-9857-4cca-bce2-858ca6f641a4)
 
 ## Technology Stack
 
